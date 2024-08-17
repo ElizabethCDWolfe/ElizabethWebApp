@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ElizabethWebApp/precache-manifest.9bedf23aa368bf70825f9b7140a884a6.js"
+  "/ElizabethWebApp/precache-manifest.970341915bbb011c9e8637c7be723889.js"
 );
 
 self.addEventListener('message', (event) => {
