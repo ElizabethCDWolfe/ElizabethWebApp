@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ElizabethWebApp/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/ElizabethWebApp/static/js/main.5eb4c8ae.chunk.js",
+    "main.js.map": "/ElizabethWebApp/static/js/main.5eb4c8ae.chunk.js.map",
+    "runtime-main.js": "/ElizabethWebApp/static/js/runtime-main.9139ff4c.js",
+    "runtime-main.js.map": "/ElizabethWebApp/static/js/runtime-main.9139ff4c.js.map",
+    "static/js/2.4ccafed9.chunk.js": "/ElizabethWebApp/static/js/2.4ccafed9.chunk.js",
+    "static/js/2.4ccafed9.chunk.js.map": "/ElizabethWebApp/static/js/2.4ccafed9.chunk.js.map",
+    "static/js/3.e969467f.chunk.js": "/ElizabethWebApp/static/js/3.e969467f.chunk.js",
+    "static/js/3.e969467f.chunk.js.map": "/ElizabethWebApp/static/js/3.e969467f.chunk.js.map",
+    "index.html": "/ElizabethWebApp/index.html",
+    "precache-manifest.62a92c1c35ce4e7cbe1c76d0b64e3a3b.js": "/ElizabethWebApp/precache-manifest.62a92c1c35ce4e7cbe1c76d0b64e3a3b.js",
+    "service-worker.js": "/ElizabethWebApp/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/ElizabethWebApp/static/css/main.435d5fe5.chunk.css.map",
+    "static/js/2.4ccafed9.chunk.js.LICENSE.txt": "/ElizabethWebApp/static/js/2.4ccafed9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ElizabethWebApp/static/media/logo.06e73328.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9139ff4c.js",
+    "static/js/2.4ccafed9.chunk.js",
+    "static/css/main.435d5fe5.chunk.css",
+    "static/js/main.5eb4c8ae.chunk.js"
+  ]
+}
